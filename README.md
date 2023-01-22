@@ -15,7 +15,7 @@
 </div>
 
 
-  - 🔭 I’m currently working on enginer thesis
+  - 🔭 I’m currently working on engineer thesis
   - 🌱 I’m currently learning typescript
   - 📫 How to reach me: miciak.piotr2@gmail.com
 
