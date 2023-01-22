@@ -19,9 +19,6 @@
   - 🌱 I’m currently learning typescript
   - 📫 How to reach me: miciak.piotr2@gmail.com
 
-<!-- 
-Most of the project was written in Java because that was my main language on university. -->
-
 
 ![Piotr stats](https://github-readme-stats.vercel.app/api?username=ValadaRP&count_private=true&show_icons=true&theme=radical&card_width=500)
   
